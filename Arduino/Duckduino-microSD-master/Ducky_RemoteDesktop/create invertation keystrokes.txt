@@ -1,0 +1,16 @@
+win + r
+control pannel
+"remote assistance"
+TABx4
+return
+
+###Opends remote assistance window###
+return
+return
+TABx6
+return
+"%userprofile%"
+return
+TABx8
+return
+return
